@@ -1,6 +1,5 @@
-## Hi there 👋
+## Hi I'm Fabio 👋
 
-<h1 align="center">Hi 👋, I'm Fabio</h1>
 <h3 align="center">A newbie game developer from Indonesia. Im very interest of making various and genres of games.</h3>
 
 <h3 align="left">Connect with me:</h3>
